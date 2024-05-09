@@ -1,0 +1,8 @@
+/home/usuario/Escritorio/programacion!/DH/Especializacio Back End/parcial/parcial-especializacion-backend/serie-service/src/main/java/com/dh/serieservice/config/RabbitMQSenderConfig.java
+/home/usuario/Escritorio/programacion!/DH/Especializacio Back End/parcial/parcial-especializacion-backend/serie-service/src/main/java/com/dh/serieservice/SerieServiceApplication.java
+/home/usuario/Escritorio/programacion!/DH/Especializacio Back End/parcial/parcial-especializacion-backend/serie-service/src/main/java/com/dh/serieservice/queue/SerieSender.java
+/home/usuario/Escritorio/programacion!/DH/Especializacio Back End/parcial/parcial-especializacion-backend/serie-service/src/main/java/com/dh/serieservice/repository/SerieRepository.java
+/home/usuario/Escritorio/programacion!/DH/Especializacio Back End/parcial/parcial-especializacion-backend/serie-service/src/main/java/com/dh/serieservice/model/Serie.java
+/home/usuario/Escritorio/programacion!/DH/Especializacio Back End/parcial/parcial-especializacion-backend/serie-service/src/main/java/com/dh/serieservice/controller/SerieController.java
+/home/usuario/Escritorio/programacion!/DH/Especializacio Back End/parcial/parcial-especializacion-backend/serie-service/src/main/java/com/dh/serieservice/service/SerieService.java
+/home/usuario/Escritorio/programacion!/DH/Especializacio Back End/parcial/parcial-especializacion-backend/serie-service/src/main/java/com/dh/serieservice/config/RabbitTemplateConfig.java
